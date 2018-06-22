@@ -1,0 +1,2 @@
+# JavaClassDesign_Kingtous
+JavaClassDesign
